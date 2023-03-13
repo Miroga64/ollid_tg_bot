@@ -1,0 +1,13 @@
+{
+    "verbose": true,
+    "debug": true,
+    "exec": "node ./src/index2.js",
+    "events": {
+      "restart": "echo \"[Warning] Remember run yarn run test b4 push to dev branch !\""
+    },
+    "watch": [
+      "./src/**/*.js"
+    ],
+    "ext": "js",
+    "inspect": true
+  }

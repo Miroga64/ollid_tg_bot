@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^1.3.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "mp3-to-wav": "^0.1.11",
+    "nodemon": "^2.0.20",
+    "pdfkit": "^0.13.0",
+    "prebuilt-tdlib": "^0.1008005.0",
+    "tdl": "^7.2.0",
+    "tdl-tdlib-addon": "^1.2.1"
+  },
+  "devDependencies": {
+    "tdlib-types": "^0.1001008005.0"
+  }
+}
